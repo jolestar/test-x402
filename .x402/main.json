@@ -1,9 +1,9 @@
 {
   "payTo": "0xa7186676260aba89c8a1e1b03c9c81289fcafa05",
-  "defaultAmount": "$5",
+  "defaultAmount": "$50",
   "network": "base-sepolia",
   "title": "test-x402",
-  "description": "test-x402",
+  "description": "test-x402 abcdef",
   "creator": {
     "handle": "jolestar",
     "avatar": "https://avatars.githubusercontent.com/u/77268?v=4"
