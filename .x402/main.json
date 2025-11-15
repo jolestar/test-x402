@@ -1,6 +1,0 @@
-{
-  "name": "test-x402",
-  "description": "Donation configuration for jolestar/test-x402",
-  "payTo": "0xa7186676260aba89c8a1e1b03c9c81289fcafa05",
-  "defaultAmount": "$5"
-}
