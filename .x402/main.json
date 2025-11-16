@@ -13,5 +13,11 @@
       "url": "https://github.com/jolestar/test-x402",
       "label": "Repository"
     }
+  ],
+  "recipients": [
+    {
+      "address": "0x22292c8ad058a29d11ef2b2dce330720f9a4efd0",
+      "bips": 1000
+    }
   ]
 }
