@@ -1,0 +1,17 @@
+{
+  "payTo": "0xa7186676260aba89c8a1e1b03c9c81289fcafa05",
+  "defaultAmount": "0.1",
+  "network": "base-sepolia",
+  "title": "test-x402",
+  "description": "test-x402",
+  "creator": {
+    "handle": "jolestar",
+    "avatar": "https://avatars.githubusercontent.com/u/77268?v=4"
+  },
+  "links": [
+    {
+      "url": "https://github.com/jolestar/test-x402",
+      "label": "Repository"
+    }
+  ]
+}
